@@ -1,10 +1,10 @@
 # k_fruity
 
-A new Flutter project.
+Kigali fruity, shortned to k_fruity, is an ecommerce application for selling and purchasing fruits, though it's not limited to fruits. It have an admin feature for uploading, removal, and manipulations of advertised/published items.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This Flutter application project project can be started/ran simply buy running the main.dart method.
 
 A few resources to get you started if this is your first Flutter project:
 
