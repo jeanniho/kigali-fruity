@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "500926416701",
+    "project_id": "kigali-fruity",
+    "storage_bucket": "kigali-fruity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500926416701:android:8c432fae6d5f8491e46754",
+        "android_client_info": {
+          "package_name": "com.example.k_fruity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500926416701-5aptklmi52k80f6jfri7mv9kjh89g3kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCNIm6C3OMdEA412Lbx08rQON_6QDTRyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500926416701-5aptklmi52k80f6jfri7mv9kjh89g3kb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500926416701:android:40ddf8b9db39fee3e46754",
+        "android_client_info": {
+          "package_name": "com.jd.k_fruity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500926416701-5aptklmi52k80f6jfri7mv9kjh89g3kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCNIm6C3OMdEA412Lbx08rQON_6QDTRyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500926416701-5aptklmi52k80f6jfri7mv9kjh89g3kb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
